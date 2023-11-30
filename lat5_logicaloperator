@@ -1,0 +1,11 @@
+# logical operator
+
+# mengkombinasikan suatu statament
+
+# register user contoh
+password = "shairul19"
+confirmPass = "shairul19"
+
+# membuat validasi apakah confirm password sama dengan password
+# yang ditulis sebelumnya pada form register
+print(password == "shairul19" and confirmPass == password)
